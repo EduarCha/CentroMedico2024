@@ -274,8 +274,8 @@ header {
      float: left;
      width: 160px;
      height: 100%;
-     background: #00344c;
-     border-right: #fff solid 7px;
+     background: #005792;
+     border-right: #000 solid 1px;
      padding: 33px;
      position: absolute;
      top: 0;
@@ -290,7 +290,7 @@ header {
      height: 100vh;
      z-index: 1000;
      background: #004869;
-     color: #fff;
+     color: black;
      transition: all 0.3s;
      overflow-y: scroll;
      box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);

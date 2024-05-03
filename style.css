@@ -3,15 +3,21 @@ body {
   height: 100%;
 }
 h1 {
-  color: white;
+  color: #005792;
 }
+
+h3 {
+  color: #005792;
+}
+
 body {
   display: flex;
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #0991cb;
+  background: linear-gradient(to bottom left, #d1f4fa 0%, #d1f4fa 50%, #ffffff 50%, #ffffff 100%);
 }
+
 
 .form-signin {
   width: 100%;
@@ -40,6 +46,6 @@ body {
   border-top-right-radius: 0;
 }
 .btn-primary {
-  background-color: #0fa9cd;
+  background-color: #005792;
   border: none;
 }
